@@ -19,7 +19,7 @@ kotak = x + y + '47' + z + '30m'
 bersih = x + y + 'm'
 
 try:
-	print(f"{kotak} TiktokVideoDownloader | sanzking {bersih}")
+	print(f"{kotak} TiktokDownloader | sanzking {bersih}")
 	url   = input(f"\n{putih}enter url : ")
 	file = input(f"{birumud}masukan nama output : {bersih}")
 	print()
